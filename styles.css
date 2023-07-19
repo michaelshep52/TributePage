@@ -1,0 +1,62 @@
+main{
+    font-family:Serif, Sans-serif;
+    margin-top:2rem;
+    border-radius:10px;
+    background-color: #dedcdc;
+  }
+  #title{
+    text-align:center;
+    padding-top:1rem;
+  }
+  #img-div{ 
+    max-width: 90%;
+    background-color: #ffffff;
+    margin:auto;
+    border-radius:10px;
+    }
+    img{
+      display:block;
+    }
+  #image{
+    max-width: 100%;
+    height: auto; 
+    margin:auto;
+    border-radius:10px;
+  }
+  #img-caption{
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    padding: 2px;
+  
+  }
+  h3{
+    text-align:center;
+    padding:1rem;
+  }
+  .flex-container{
+    margin: 0 auto;
+  }
+  div > ul, div > p{
+    margin: 0 auto;
+    width:55%;
+    padding-bottom:1rem;
+  
+  }
+  div > ul > li{
+    padding:15px;
+  }
+  div > ul > li > span{
+    font-weight: bold;
+    font-size:18px;
+  }
+  div > p{
+    text-align:center;
+    font-style: italic;
+  }
+  #tribute-info{
+    font-weight: bold;
+    font-size:18px;
+    text-align:center;
+    padding-bottom:2rem;
+  }
